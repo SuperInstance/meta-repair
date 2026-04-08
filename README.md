@@ -1,0 +1,10 @@
+# meta-repair
+
+If loop-closure stalls 3+ times, auto-propose new orchestrator variants
+
+Part of the [Cocapn fleet](https://github.com/Lucineer/the-fleet).
+
+---
+<i>Built with [Cocapn](https://github.com/Lucineer/cocapn-ai).</i>
+
+Superinstance & Lucineer (DiGennaro et al.)
